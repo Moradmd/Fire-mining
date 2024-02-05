@@ -1,2 +1,2 @@
 # Fire-mining
-t.me/herewalletbot/app?startapp=854355
+http://t.me/herewalletbot/app?startapp=854355
